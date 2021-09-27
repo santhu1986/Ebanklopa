@@ -1,0 +1,264 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 19,
+        "name": "Role creation with multiple data",
+        "description": "",
+        "id": "role-creation;role-creation-with-multiple-data;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 13485048700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Tester on Ranford Home page",
+            "match": {
+              "location": "Rolec.tester_on_Ranford_Home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3959673300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Tester enters Uname and Password",
+            "match": {
+              "location": "Rolec.tester_enters_Uname_and_Password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4303681800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Tester clicks on Role Button",
+            "match": {
+              "location": "Rolec.tester_clicks_on_Role_Button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5539171900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Tester click on New Role and enter \"Testerdfd\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Testerdfd",
+                  "offset": 36
+                },
+                {
+                  "val": "E",
+                  "offset": 52
+                }
+              ],
+              "location": "Rolec.tester_click_on_New_Role_and_enter_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2677715900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Tester close the application",
+            "match": {
+              "location": "Rolec.tester_close_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Role creation with multiple data",
+        "description": "",
+        "id": "role-creation;role-creation-with-multiple-data;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9905973900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Tester on Ranford Home page",
+            "match": {
+              "location": "Rolec.tester_on_Ranford_Home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3991026800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Tester enters Uname and Password",
+            "match": {
+              "location": "Rolec.tester_enters_Uname_and_Password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4684375300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Tester clicks on Role Button",
+            "match": {
+              "location": "Rolec.tester_clicks_on_Role_Button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5520915500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Tester click on New Role and enter \"cashierdfd\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "cashierdfd",
+                  "offset": 36
+                },
+                {
+                  "val": "E",
+                  "offset": 53
+                }
+              ],
+              "location": "Rolec.tester_click_on_New_Role_and_enter_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1815207700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Tester close the application",
+            "match": {
+              "location": "Rolec.tester_close_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Role creation with multiple data",
+        "description": "",
+        "id": "role-creation;role-creation-with-multiple-data;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9186102300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Tester on Ranford Home page",
+            "match": {
+              "location": "Rolec.tester_on_Ranford_Home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4059850400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Tester enters Uname and Password",
+            "match": {
+              "location": "Rolec.tester_enters_Uname_and_Password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4365611600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Tester clicks on Role Button",
+            "match": {
+              "location": "Rolec.tester_clicks_on_Role_Button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5380194700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Tester click on New Role and enter \"pofd\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "pofd",
+                  "offset": 36
+                },
+                {
+                  "val": "E",
+                  "offset": 47
+                }
+              ],
+              "location": "Rolec.tester_click_on_New_Role_and_enter_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1665937600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Tester close the application",
+            "match": {
+              "location": "Rolec.tester_close_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Role Creation",
+    "description": "",
+    "id": "role-creation",
+    "keyword": "Feature",
+    "uri": "E:/LopaWorkspace/Ebanking/src/feature/Role.feature"
+  }
+]

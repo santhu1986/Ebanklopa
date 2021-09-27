@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+ManagerUks$$$$E%&^%&New Role with id 1744 Created Sucessfully
+GManagerAuss$$$$E%&^%&New Role with id 1745 Created Sucessfully
+AManagerUs$$$$E%&^%&New Role with id 1746 Created Sucessfully
